@@ -1,59 +1,92 @@
-<h1> Hey there! I'm Smit Borsadiya.</h1>  
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />,
+ I'm <a href="https://www.linkedin.com/in/smit-borsadiya-710a93201/" target="_blank" >Smit Borsadiya</a></h1>
+<h3 align="center">A Passionate Full Stack Developer.</h3>
  
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- �� &nbsp; Exploring new technologies and developing software solutions and quick hacks. 
-- �� &nbsp; Studied Computer Science and Engineering at Pandit Deendayal Energy University.
-- �� &nbsp; Working as a Software Developer.
-
-<h3> 🛠 &nbsp;Tech Stack</h3>  
-
-- �� &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  
-- �� &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-  ![Laravel](https://img.shields.io/badge/-.Laravel-333333?style=flat&logo=laravel)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Material-UI](https://img.shields.io/badge/-MaterialUI-333333?style=flat&logo=mui&logoColor=563D7C)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss&logoColor=563D7C)
-  
-- �� &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-  
-- �� &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
-  
-- �� &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  
-- �� &nbsp;
-  ![Word](https://img.shields.io/badge/-Word-333333?style=flat&logo=microsoft-word)
-  ![Excel](https://img.shields.io/badge/-Excel-333333?style=flat&logo=microsoft-excel)
-  ![Powerpoint](https://img.shields.io/badge/-Powerpoint-333333?style=flat&logo=microsoft-powerpoint)
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
-
-<p align="center">
-<a href="https://linkedin.com/smit-borsadiya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-smit-borsadiya-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:smitborsadiya1810@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-smit-borsadiya-blue?style=flat-square&logo=gmail"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/smit-borsadiya-710a93201/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="vorayash9028" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Smit_5525/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vorayash9028" height="30" width="40" /></a>
 </p>
+
+## About Me 🚀
+🎓 As a computer engineering student at Indus Institute of Technology and Engineering, I'm deeply passionate about web development and leveraging technology to solve real-world problems, driven by a relentless determination to overcome any coding bugs or life obstacles in pursuit of creating impactful applications that cater to people's needs.
+<br/>
+
+
+## Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" style="max-width: 100%;">
+- **Programming Languages**
+<ul>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="jquery"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript"/>
+</a>
+</ul>
+
+- **Frontend Development**
+<ul>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css"/>
+</a>
+ <a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="redux"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind"/>
+</a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="35"/> </a>
+</ul>
+
+- **Backend Development**
+<ul>
+  <a target="_blank" rel="noopener noreferrer" href="">
+     <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs"/>
+  </a>
+  <a target="_blank" rel="noopener noreferrer" href="">
+     <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs"/>
+  </a>
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="php" width="50" height="35"/> 
+   </a>
+   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="50" height="35"/> 
+   </a>
+</ul>
+
+- **Database**
+<ul>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb"/>
+</a>
+<a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql"/>
+</a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="35"/> </a>
+</ul>
+
+- **Backend as a Service(BaaS)**
+<ul>
+ <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" alt="heroku" width="50" height="35"/> </a>
+ <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="50" height="35"/> </a>
+</ul>
+
+- **Tools**
+<ul>
+  <a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman"/>  
+</a>
+</ul>
