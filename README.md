@@ -90,3 +90,10 @@
    <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman"/>  
 </a>
 </ul>
+
+## My Github Status 🦸
+
+<a target="_blank" rel="noopener noreferrer" href="#">
+   <img src="https://github-readme-stats.vercel.app/api?username=SmitBorsadiya&show_icons=true&theme=default">
+</a>
+<div align="center" dir="auto"><h3 dir="auto">Show some ❤️ by starring some of the repositories!</h3></div>
