@@ -51,7 +51,9 @@
    <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind"/>
 </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="35"/> </a>
- <a target="_blank" rel="noopener noreferrer" href=""> <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="materialui" width="50" height="35"/> </a>
+ <a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="materialui"/>
+</a>
 </ul>
 
 - **Backend Development**
