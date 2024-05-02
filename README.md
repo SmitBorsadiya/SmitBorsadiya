@@ -51,6 +51,7 @@
    <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind"/>
 </a>
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="35"/> </a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src=https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" alt="materialui" width="50" height="35"/> </a>
 </ul>
 
 - **Backend Development**
@@ -77,7 +78,7 @@
 </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="35"/> </a>
  <a target="_blank" rel="noopener noreferrer" href="">
-   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="postgresql"/>
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws"/>
 </a>
 </ul>
 
