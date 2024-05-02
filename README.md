@@ -64,4 +64,4 @@
 ## My Github Status 🦸
 
 <a target="_blank" rel="noopener noreferrer" href="#"> <img src="https://github-readme-stats.vercel.app/api?username=SmitBorsadiya&show_icons=true&theme=default"></a>
-<div align="center" dir="auto"><h3 dir="auto">Show some ❤️ by starring some of the repositories!</h3></div>
+<div align="center" dir="auto"><h3 dir="auto">Express ⭐ your admiration by starring repositories that catch your interest!</h3></div>
