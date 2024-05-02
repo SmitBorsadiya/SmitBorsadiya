@@ -76,6 +76,9 @@
    <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql"/>
 </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="50" height="35"/> </a>
+ <a target="_blank" rel="noopener noreferrer" href="">
+   <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="postgresql"/>
+</a>
 </ul>
 
 - **Backend as a Service(BaaS)**
