@@ -9,7 +9,7 @@
 </p>
 
 ## About Me 🚀
-🎓 As a computer engineering student at Indus Institute of Technology and Engineering, I'm deeply passionate about web development and leveraging technology to solve real-world problems, driven by a relentless determination to overcome any coding bugs or life obstacles in pursuit of creating impactful applications that cater to people's needs.
+🎓 As a Computer Engineering graduate from Indus Institute of Technology and Engineering, I'm dedicated to Full Stack Development and using technology to address real-world challenges. My relentless drive to overcome coding bugs and life obstacles fuels my mission to create applications that make a meaningful impact on people's lives.
 <br/>
 
 
