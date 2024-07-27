@@ -58,7 +58,8 @@
 
 - **Tools**
 <ul>
-<a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="[https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg)" alt="vscode"/></a>
+<a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode"/></a>
+ <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VisualStudio"/></a>
 <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman"/></a>
 </ul>
 
