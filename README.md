@@ -9,7 +9,7 @@
 </p>
 
 ## About Me 🚀
-🎓 As a Computer Engineering graduate from Indus Institute of Technology and Engineering, I'm dedicated to Full Stack Development and using technology to address real-world challenges. My relentless drive to overcome coding bugs and life obstacles fuels my mission to create applications that make a meaningful impact on people's lives.
+🎓 As a Computer Engineering graduate from Indus Institute of Technology and Engineering, I'm passionate about Software Development and using technology to address real-world challenges. My relentless drive to overcome coding bugs and life obstacles fuels my mission to create applications that make a meaningful impact on people's lives.
 <br/>
 
 
@@ -28,6 +28,7 @@
 <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html"/></a>
 <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css"/></a>
 <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react"/></a>
+<a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="vue"/></a>
 <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" alt="redux"/></a>
 <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="35"/></a>
