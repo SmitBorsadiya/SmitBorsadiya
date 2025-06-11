@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29" height="29" />,
  I'm <a href="https://www.linkedin.com/in/smit-borsadiya-710a93201/" target="_blank" >Smit Borsadiya</a></h1>
-<h3 align="center">A Passionate Full Stack Developer.</h3>
+<h3 align="center">A Passionate Software Developer.</h3>
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
