@@ -58,7 +58,5 @@
 <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman"/></a>
 </ul>
 
-## My Github Status 🦸
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBorsadiya&layout=compact&theme=default)](https://github.com/SmitBorsadiya)
 <div align="center" dir="auto"><h3 dir="auto">Express ⭐ your admiration by starring repositories that catch your interest!</h3></div>
