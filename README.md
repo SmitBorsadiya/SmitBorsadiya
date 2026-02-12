@@ -51,12 +51,6 @@
 <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws"/></a>
 </ul>
 
-- **Backend as a Service(BaaS)**
-<ul>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg" alt="heroku" width="50" height="35"/> </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="50" height="35"/> </a>
-</ul>
-
 - **Tools**
 <ul>
 <a target="_blank" rel="noopener noreferrer" href=""> <img height="35" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode"/></a>
@@ -66,5 +60,5 @@
 
 ## My Github Status 🦸
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SmitBorsadiya&show_icons=true&theme=default)](https://github.com/SmitBorsadiya)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SmitBorsadiya&layout=compact&theme=default)](https://github.com/SmitBorsadiya)
 <div align="center" dir="auto"><h3 dir="auto">Express ⭐ your admiration by starring repositories that catch your interest!</h3></div>
